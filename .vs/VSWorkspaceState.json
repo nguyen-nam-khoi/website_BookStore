@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore",
+    "\\BookStore\\Controllers",
+    "\\BookStore\\Views",
+    "\\BookStore\\Views\\BookStore",
+    "\\BookStore\\Views\\GioHang",
+    "\\BookStore\\Views\\Shared"
+  ],
+  "SelectedNode": "\\BookStore\\Controllers\\GioHangController.cs",
+  "PreviewInSolutionExplorer": false
+}
