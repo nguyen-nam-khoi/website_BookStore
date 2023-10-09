@@ -1,0 +1,1 @@
+Hệ thống quản lý hiệu sách là một ứng dụng dựa trên web cung cấp nền tảng hiệu quả và thân thiện với người dùng để quản lý hoạt động của hiệu sách. Nó nhằm mục đích đơn giản hóa và tự động hóa các nhiệm vụ khác nhau liên quan đến hoạt động hàng ngày của hiệu sách, chẳng hạn như quản lý hàng tồn kho, xử lý đơn đặt hàng của khách hàng, theo dõi doanh số bán hàng và tạo báo cáo.
